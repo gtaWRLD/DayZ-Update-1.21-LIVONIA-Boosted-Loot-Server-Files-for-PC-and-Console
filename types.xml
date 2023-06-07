@@ -133,8 +133,8 @@
     </type>
     <type name="AK74_WoodBttstck">
         <nominal>8</nominal>
-        <lifetime>14400</lifoetime>
-        <restock>0</restowck>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
         <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2066,7 +2066,7 @@
         <category name="containers"/>
         <usage name="Military"/>
         <usage name="Coast"/>
-        <usage name="Prison"
+        <usage name="Prison"/>
     </type>
     <type name="AthleticShoes_Black">
         <nominal>7</nominal>
