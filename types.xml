@@ -6617,19 +6617,6 @@
         <usage name="Office"/>
         <usage name="School"/>
     </type>
-    <type name="Flag_BabyDeer">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>4</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-    </type>
     <type name="Flag_Bear">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
