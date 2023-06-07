@@ -2141,7 +2141,7 @@
         <usage name="Underground"/>
         <usage name="Military"/>
         <value name="Tier3"/>
-        <value name="Unique/>
+        <value name="Unique"/>
     </type>
     <type name="AugShort">
         <nominal>15</nominal>
